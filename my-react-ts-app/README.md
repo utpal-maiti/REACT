@@ -48,3 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+npx generate-react-cli component HomePage --type=page
+npm i generate-react-cli
+npx generate-react-cli component Box
+npx generate-react-cli component Box
+npx generate-react-cli component Box --withTest=true
+https://www.npmjs.com/package/generate-react-cli
